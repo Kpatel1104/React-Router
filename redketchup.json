@@ -1,0 +1,34 @@
+{
+    "resizeMode": "Exact Dimensions",
+    "resizePercentage": 50,
+    "resizeWidth": 225,
+    "resizeHeight": 183,
+    "resizeLongest": 1920,
+    "fillMode": "Center",
+    "format": "Original",
+    "background": "#FFFFFF",
+    "colorDepth": 0,
+    "quality": 92,
+    "maxFileSize": 102400,
+    "dithering": "Atkinson",
+    "hidden": [
+        "resize-by",
+        "filters",
+        "effects",
+        "format",
+        "color-depth",
+        "quality"
+    ],
+    "filter": {
+        "id": "mks2013",
+        "displayName": "Magic Kernel",
+        "downscale": true,
+        "upscale": true
+    },
+    "effect": {
+        "displayName": "None",
+        "options": {},
+        "html": "",
+        "$$hashKey": "object:152"
+    }
+}
